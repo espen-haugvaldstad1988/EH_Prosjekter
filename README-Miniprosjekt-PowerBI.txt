@@ -1,5 +1,5 @@
 
-Miniprojekt for fiktivt firma "Solar". 
+Miniprosjekt for fiktivt firma "Solar". 
 
 
 Forklaringer:
